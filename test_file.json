@@ -3,8 +3,8 @@
     {"x": "Jan", "y": 10},
     {"x": "Feb", "y": 20},
     {"x": "Mar", "y": 15},
-    {"x": "Apr", "y": },
-    {"x": "May", "y": }
+    {"x": "Apr", "y": null},
+    {"x": "May", "y": null}
   ],
   "series2": [
     {"x": "Jan", "y": 5},
