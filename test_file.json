@@ -1,42 +1,45 @@
 {
-  "true": [
-    {"x": "Jan", "y": 23194},
-    {"x": "Feb", "y": 23704},
-    {"x": "Mar", "y": 23584},
-    {"x": "Apr", "y": 23694},
-    {"x": "May", "y": 23954},
-    {"x": "Jun", "y": null},
-    {"x": "Jul", "y": null},
-    {"x": "Aug", "y": null}
-  ],
-  "pred": [
-    {"x": "Jan", "y": 23794},
-    {"x": "Feb", "y": 23804},
-    {"x": "Mar", "y": 23784},
-    {"x": "Apr", "y": 23894},
-    {"x": "May", "y": 23854},
-    {"x": "Jun", "y": 23834},
-    {"x": "Jul", "y": 23864},
-    {"x": "Aug", "y": 23814}
-  ],
-  "upperpred": [
-    {"x": "Jan", "y": null},
-    {"x": "Feb", "y": null},
-    {"x": "Mar", "y": null},
-    {"x": "Apr", "y": null},
-    {"x": "May", "y": null},
-    {"x": "Jun", "y": 23844},
-    {"x": "Jul", "y": 23874},
-    {"x": "Aug", "y": 23824}
-  ],
-  "lowerpred": [
-    {"x": "Jan", "y": null},
-    {"x": "Feb", "y": null},
-    {"x": "Mar", "y": null},
-    {"x": "Apr", "y": null},
-    {"x": "May", "y": null},
-    {"x": "Jun", "y": 23824},
-    {"x": "Jul", "y": 23854},
-    {"x": "Aug", "y": 23804}
-  ]
+  "close":  
+  {
+    "true": [
+      {"x": "Jan", "y": 23194},
+      {"x": "Feb", "y": 23704},
+      {"x": "Mar", "y": 23584},
+      {"x": "Apr", "y": 23694},
+      {"x": "May", "y": 23954},
+      {"x": "Jun", "y": null},
+      {"x": "Jul", "y": null},
+      {"x": "Aug", "y": null}
+    ],
+    "pred": [
+      {"x": "Jan", "y": 23794},
+      {"x": "Feb", "y": 23804},
+      {"x": "Mar", "y": 23784},
+      {"x": "Apr", "y": 23894},
+      {"x": "May", "y": 23854},
+      {"x": "Jun", "y": 23834},
+      {"x": "Jul", "y": 23864},
+      {"x": "Aug", "y": 23814}
+    ],
+    "upperpred": [
+      {"x": "Jan", "y": null},
+      {"x": "Feb", "y": null},
+      {"x": "Mar", "y": null},
+      {"x": "Apr", "y": null},
+      {"x": "May", "y": null},
+      {"x": "Jun", "y": 23844},
+      {"x": "Jul", "y": 23874},
+      {"x": "Aug", "y": 23824}
+    ],
+    "lowerpred": [
+      {"x": "Jan", "y": null},
+      {"x": "Feb", "y": null},
+      {"x": "Mar", "y": null},
+      {"x": "Apr", "y": null},
+      {"x": "May", "y": null},
+      {"x": "Jun", "y": 23824},
+      {"x": "Jul", "y": 23854},
+      {"x": "Aug", "y": 23804}
+    ]
+  }
 }
