@@ -7,9 +7,9 @@
       {"x": "Mar", "y": 23584},
       {"x": "Apr", "y": 23694},
       {"x": "May", "y": 23954},
-      {"x": "Jun", "y": null},
-      {"x": "Jul", "y": null},
-      {"x": "Aug", "y": null}
+      {"x": "Jun", "y": nan},
+      {"x": "Jul", "y": nan},
+      {"x": "Aug", "y": nan}
     ],
     "pred": [
       {"x": "Jan", "y": 23794},
@@ -22,21 +22,21 @@
       {"x": "Aug", "y": 23814}
     ],
     "upperpred": [
-      {"x": "Jan", "y": null},
-      {"x": "Feb", "y": null},
-      {"x": "Mar", "y": null},
-      {"x": "Apr", "y": null},
-      {"x": "May", "y": null},
+      {"x": "Jan", "y": nan},
+      {"x": "Feb", "y": nan},
+      {"x": "Mar", "y": nan},
+      {"x": "Apr", "y": nan},
+      {"x": "May", "y": nan},
       {"x": "Jun", "y": 23844},
       {"x": "Jul", "y": 23874},
       {"x": "Aug", "y": 23824}
     ],
     "lowerpred": [
-      {"x": "Jan", "y": null},
-      {"x": "Feb", "y": null},
-      {"x": "Mar", "y": null},
-      {"x": "Apr", "y": null},
-      {"x": "May", "y": null},
+      {"x": "Jan", "y": nan},
+      {"x": "Feb", "y": nan},
+      {"x": "Mar", "y": nan},
+      {"x": "Apr", "y": nan},
+      {"x": "May", "y": nan},
       {"x": "Jun", "y": 23824},
       {"x": "Jul", "y": 23854},
       {"x": "Aug", "y": 23804}
